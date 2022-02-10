@@ -1,0 +1,11 @@
+Results for countriesForBookID
+For the Retailer with ID: 204
+JO YT 
+For the Retailer with ID: 224
+BL 
+For the Retailer with ID: 262
+JM NP 
+For the Retailer with ID: 275
+AE 
+For the Retailer with ID: 291
+BM 

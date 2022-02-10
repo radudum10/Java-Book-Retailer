@@ -1,0 +1,127 @@
+Results for commonBooks
+For the Retailers with IDs: 1 and 6
+<xml>
+	<ID>4083</ID>
+	<title>Nains de jardin</title>
+	<subtitle>Nouvelles</subtitle>
+	<isbn>9782882413437</isbn>
+	<pageCount>240</pageCount>
+	<keywords>Nains de jardin; Nouvelles; Jacques-Étienne Bovard; Bernard Campiche Éditeur; ebooks; recueils de nouvelles; textes courts; thématiques; mesquinerie; relations sociales; copropriétaires; médiocrité; rencontres;isolement; dentistes;surveillance; voisinages; quartiers; communautés; sex-shop;secrets; cuisine; humour; littérature générale; littérature francophone</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:37:31 EET 2016</createdOn>
+	<authors>lePetitPhilosophe</authors>
+</xml>
+<xml>
+	<ID>5460</ID>
+	<title>Cap sur la gouvernance des PME</title>
+	<subtitle>Guide (Droit belge)</subtitle>
+	<isbn>9782874557828</isbn>
+	<pageCount>136</pageCount>
+	<keywords>Cap sur la gouvernance des PME; Guide; conformité droit belge; Belgique; Sibylle du Bus de Warnaffe; Lutgart Van den Berghe; Belgique; Anthemis éditions ebooks; ouvrages pratiques; guides; législations; petites et moyennes entreprises; entrepreneurs; conseils</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:09:04 EET 2016</createdOn>
+	<authors>Laurence Binon</authors>
+</xml>
+For the Retailers with IDs: 2 and 7
+<xml>
+	<ID>14116</ID>
+	<title>Ma vie, votre œuvre</title>
+	<subtitle>Un roman actuel</subtitle>
+	<isbn>9782919742752</isbn>
+	<pageCount>80</pageCount>
+	<keywords>Ma vie, votre oeuvre;Alain Kauffmann;Éditions des Tourments;ebooks;romans contemporains;Internet;dérives;génération connectée;Web;codes actuels;décryptages;internautes;voyeurisme;choix;romans psychologiques;jeunes gens;adolescents;mondes virtuels;décisions;le net;toile;victimes;Facebook;réseaux sociaux;maladies;euthanasie</keywords>
+	<languageID>2</languageID>
+	<createdOn>Thu Feb 23 09:57:32 EET 2017</createdOn>
+	<authors>Pascaline David</authors>
+</xml>
+For the Retailers with IDs: 3 and 8
+<xml>
+	<ID>5278</ID>
+	<title>Les Triomphes de Sherlock Holmes</title>
+	<subtitle>Souvenir d'une souris d'hôtel</subtitle>
+	<isbn>9782843625527</isbn>
+	<pageCount>256</pageCount>
+	<keywords>Les Triomphes de Sherlock Holmes; Souvenir d'une souris d'hôtel; Gérard Dôle; Éditions Terre de brume; ebooks; François Ducos; romans policiers; mystères; détectives; crimes; Londres; Angleterre; histoire; aventures; occultes; surnaturels; enquêtes policières; cambrioleurs; énigmes; Paris; France; époque victorienne; XIXe</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 12:05:03 EET 2016</createdOn>
+	<authors>Jean Morval</authors>
+</xml>
+<xml>
+	<ID>2776</ID>
+	<title>Une terre pas si sainte</title>
+	<subtitle>Sélection Prix Sang pour Sang Polar 2015</subtitle>
+	<isbn>9791092016451</isbn>
+	<pageCount>328</pageCount>
+	<keywords>Pierre Pouchairet; Une terre pas si sainte; Editions Jigal; ebooks; romans policiers; meilleur du polars; thrillers; meurtres; crimes; criminels;polars; assassins;mafias; mystères; secrets;suspenses; enquêtes policières; investigations; romans noirs;polices judiciaires; massacres; tensions religieuses et politiques; trafics; réseaux; réfugiés; mafias; Shabak; Israël; Palestine; France; Cisjordanie;humours; fictions</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 11:05:59 EET 2016</createdOn>
+	<authors>Kelly Carrein</authors>
+</xml>
+<xml>
+	<ID>9304</ID>
+	<title>Les rois de France</title>
+	<subtitle>La monarchie de Hugues Capet à Louis XVI 987 à 1792 - Chronologie</subtitle>
+	<isbn>9782842597962</isbn>
+	<pageCount>8</pageCount>
+	<keywords>Petit Guide; Les rois de France; La monarchie de Hugues Capet à Louis XVI 987 à 1792 - Chronologie; Aedis éditions; ebooks; guides pratiques; ouvrages de référence; parascolaires; éducations; enseignements; pédagogies; didactiques; dynasties; histoire française; rois; biographies; Mérovingiens; Carolingiens; Capétiens; Valois; Bourbons; Clovis; Pépin Le Bref; Charlemagne; Louis IX; François Ier; Henri IV; Louis XIV</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 13:42:58 EET 2016</createdOn>
+	<authors>Annabelle Léna</authors>
+</xml>
+<xml>
+	<ID>12470</ID>
+	<title>The Battle of Waterloo </title>
+	<subtitle>The Battle That Changed Europe Forever</subtitle>
+	<isbn>9782806272898</isbn>
+	<pageCount>46</pageCount>
+	<keywords>The Battle of Waterloo; Napoleon; analysis; history & culture; 1815; Napoleonic Wars; Duke of Wellington; European history; conflict in Europe; Gebhard Leberecht Blücher; exile; abdication; 19th century wars; expansion; colonization; Congress of Vienna; imperialism; 50Minutes;</keywords>
+	<languageID>1</languageID>
+	<createdOn>Fri Nov 11 15:03:53 EET 2016</createdOn>
+	<authors>Encyclopaedia Universalis</authors>
+</xml>
+For the Retailers with IDs: 4 and 9
+<xml>
+	<ID>10676</ID>
+	<title>Andrew Jackson, le Lion d'Amérique</title>
+	<subtitle>Un homme ordinaire à la tête des États-Unis</subtitle>
+	<isbn>9782806267023</isbn>
+	<pageCount>40</pageCount>
+	<keywords>50MINUTES; Andrew Jackson; président; Etats-Unis; histoire des Etats-Unis; Amérique; Treize colonies; indépendance américaine; XIXe siècle; parti démocrate; spoil system; Tennessee; Floride; guerre de l'Indépendance américaine; bataille de la Nouvelle-Orléans</keywords>
+	<languageID>2</languageID>
+	<createdOn>Fri Nov 11 14:14:48 EET 2016</createdOn>
+	<authors>Pascal Jahouel</authors>
+</xml>
+<xml>
+	<ID>14697</ID>
+	<title>Eliza</title>
+	<subtitle>Nouvelle policière</subtitle>
+	<isbn>9782359624304</isbn>
+	<pageCount>24</pageCount>
+	<keywords>Eliza; David Max Benoliel; Editions Ex Aequo; collection Rouge; ebooks; thrillers; nouvelles; histoires courtes; récits brefs; romans policiers; polars; romans noirs; enquêtes; meurtres d'enfants; criminels; jeunes filles</keywords>
+	<languageID>2</languageID>
+	<createdOn>Thu Apr 06 10:25:48 EEST 2017</createdOn>
+	<authors>Séréna Davis</authors>
+</xml>
+For the Retailers with IDs: 5 and 10
+<xml>
+	<ID>14747</ID>
+	<title>Georges Lemaître</title>
+	<subtitle>La teoría del Big Bang y el origen del universo</subtitle>
+	<isbn>9782806280831</isbn>
+	<pageCount>34</pageCount>
+	<keywords>Georges Lemaître; La teoría del Big Bang y el origen del universo; en50Minutos.es; en 50 minutos; historia del siglo XX; cosmología; Big Bang; creación del universo; astrofísica; física; historia del universo; Albert Einstein; teoría de la relatividad; Hubble; Friedmann; mecánica cuántica; átomo primitivo; átomo primigenio; religión; universo en expansión; ciencia; cura; sacerdote; The Big Bang Theory; Bélgica;</keywords>
+	<languageID>3</languageID>
+	<createdOn>Mon Apr 10 15:55:58 EEST 2017</createdOn>
+	<authors>Ligaran</authors>
+</xml>
+<xml>
+	<ID>14505</ID>
+	<title>El mundo de ayer de Stefan Zweig (Guía de lectura)</title>
+	<subtitle>Resumen y análisis completo</subtitle>
+	<isbn>9782806292377</isbn>
+	<pageCount>36</pageCount>
+	<keywords>Stefan Zweig; El mundo de ayer; ResumenExpress; guía de lectura; análisis del libro; literatura rápida; autobiografía; relato histórico; künstlerroman; pasado y presente; fe en la razón y el futuro; judaísmo; arte como valor supremo; Primera Guerra Mundial; Segunda Guerra Mundial; pacifismo; Europa unida; conflictos bélicos; artistas;</keywords>
+	<languageID>3</languageID>
+	<createdOn>Fri Mar 24 17:16:15 EET 2017</createdOn>
+	<authors>Daniela Raimondi</authors>
+</xml>

@@ -1,0 +1,11 @@
+Results for getLanguagessForPublishingRetailerID
+For the retailer with ID: 1
+French Spanish English 
+For the retailer with ID: 2
+French English Spanish 
+For the retailer with ID: 3
+French English Spanish 
+For the retailer with ID: 4
+French English Spanish 
+For the retailer with ID: 5
+French English Spanish 
